@@ -1,0 +1,64 @@
+{
+    "animes": [
+        {
+            "name": "Naruto",
+            "description": "Naruto is a Japanese manga series written and illustrated by Masashi Kishimoto. It tells the story of Naruto Uzumaki, a young ninja who seeks to gain recognition from his peers and also dreams of becoming the Hokage, the leader of his village.",
+            "image": "https://upload.wikimedia.org/wikipedia/en/9/94/NarutoCoverTankobon1.jpg",
+            "rating": 4.5
+        },
+        {
+            "name": "One Piece",
+            "description": "One Piece is a Japanese manga series written and illustrated by Eiichiro Oda. It has been serialized in Shueisha's Weekly Shōnen Jump magazine since July 22, 1997, and has been collected into 94 tankōbon volumes.",
+            "image": "https://upload.wikimedia.org/wikipedia/en/9/9e/One_Piece%2C_Volume_61_Cover_%28Japanese%29.jpg",
+            "rating": 4.5
+        },
+        {
+            "name": "Bleach",
+            "description": "Bleach is a Japanese shōnen manga series written and illustrated by Tite Kubo. Bleach follows the adventures of the hotheaded teenager Ichigo Kurosaki, who inherits his parents' destiny after he obtains the powers of a Soul Reaper—a death personification similar to the Grim Reaper—from another Soul Reaper, Rukia Kuchiki.",
+            "image": "https://upload.wikimedia.org/wikipedia/en/7/7c/Bleach_01_cover.jpg",
+            "rating": 4.5
+        },
+        {
+            "name": "Dragon Ball",
+            "description": "Dragon Ball is a Japanese media franchise created by Akira Toriyama in 1984. The initial manga, written and illustrated by Toriyama, was serialized in Weekly Shōnen Jump from 1984 to 1995, with the 519 individual chapters collected into 42 tankōbon volumes by its publisher Shueisha.",
+            "image": "https://upload.wikimedia.org/wikipedia/en/4/4a/Dragon_Ball_%28manga%29_volume_1.jpg",
+            "rating": 4.5
+        },
+        {
+            "name": "Death Note",
+            "description": "Death",
+            "image": "https://upload.wikimedia.org/wikipedia/en/7/73/Death_Note%2C_Volume_1.jpg",
+            "rating": 4.5
+        },
+        {
+            "name": "Attack on Titan",
+            "description": "Attack on Titan is a Japanese manga series written and illustrated by Hajime Isayama. It is set in a world where humanity lives inside cities surrounded by enormous walls due to the Titans, gigantic humanoid beings who devour humans seemingly without reason.",
+            "image": "https://upload.wikimedia.org/wikipedia/en/0/09/Attack_on_Titan_manga_volume_1.jpg",
+            "rating": 4.5
+        },
+        {
+            "name": "Fullmetal Alchemist",
+            "description": "Fullmetal Alchemist is a Japanese shōnen manga series written and illustrated by Hiromu Arakawa. It was serialized in Square Enix's Monthly Shōnen Gangan magazine between August 2001 and June 2010; the publisher later collected the individual chapters into twenty-seven tankōbon volumes.",
+            "image": "https://upload.wikimedia.org/wikipedia/en/9/9a/Fullmetal_Alchemist_cover_art.jpg",
+            "rating": 4.5
+        },
+        {
+            "name": "Hunter × Hunter",
+            "description": "Hunter × Hunter is a Japanese manga series written and illustrated by Yoshihiro Togashi. It has been serialized in Weekly Shōnen Jump magazine since March 16, 1998, although the manga has frequently gone on extended hiatuses since 2006.",
+            "image": "https://upload.wikimedia.org/wikipedia/en/9/9b/Hunter_Hunter_cover_art.jpg",
+            "rating": 4.5
+        },
+        {
+            "name": "My Hero Academia",
+            "description": "My Hero Academia is a Japanese superhero manga series written and illustrated by Kōhei Horikoshi. It has been serialized in Weekly Shōnen Jump since July 2014, with its chapters additionally collected into 26 tankōbon volumes as of March 2020.",
+            "image": "https://upload.wikimedia.org/wikipedia/en/0/0c/My_Hero_Academia_Volume_1.png",
+            "rating": 4.5
+        },
+        {
+            "name": "Fairy Tail",
+            "description": "Fairy Tail is a Japanese manga series written and illustrated by Hiro Mashima. It was serialized in Kodansha's Weekly Shōnen Magazine from August 2006 to July 2017, with the individual chapters collected and published into 63 tankōbon volumes.",
+            "image": "https://upload.wikimedia.org/wikipedia/en/6/6a/Fairy_Tail_manga_volume_1.jpg",
+            "rating": 4.5
+        }
+    ]
+}
